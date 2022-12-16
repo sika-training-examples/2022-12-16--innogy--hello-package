@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
    name='hello',
-   version='1.0.0',
+   version='1.1.0',
    description='Hello World Example',
    author='Ondrej Sika',
    author_email='ondrej@ondrejsika.com',
